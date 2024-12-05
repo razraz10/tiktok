@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.circle-stencil {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #000; /* Ensure black background */
+    overflow: hidden; /* Ensures only the cropped area is visible */
+   
+    margin: 0 auto; /* Center horizontally */
+  
+}
+  
