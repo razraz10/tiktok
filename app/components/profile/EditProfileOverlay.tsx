@@ -11,7 +11,7 @@ import { useUser } from "@/context/user";
 import { useProfileStore } from "@/stores/profile";
 import { useGeneralStore } from "@/stores/general";
 import useUpdateProfile from "@/hooks/useUpdateProfile";
-import useChangeUserImage from "@/hooks/UseChangeUserImage";
+import useChangeUserImage from "@/hooks/useChangeUserImage";
 import useUpdateProfileImage from "@/hooks/useUpdateProfileImage";
 import useCreateBucketUrl from "@/hooks/useCreateBucketUrl";
 
